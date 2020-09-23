@@ -1,12 +1,10 @@
 
-# cs312-F2020-lab02-starter
+# cs312-F2020-lab03-starter
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this repository contains the starter files for Lab 2 in Computer Science 312.
 
 ## Introduction
-You are to build a database using protein data. Your report will be written in a Markdown file, `writing/queries.md` and your source code to build the database (not the data and the base itself) will be stored in the file `src/proteinBase-build.txt` in your repository. Your data files will be stored in `src/data`. __Only your build file and your responses to the lab's questions will be graded. The instructor will not be grading the submitted database file and the data files.__
-
-A carefully formatted assignment sheet for this project provides more details about the steps that you should take to complete this assignment.
+You are to build a database using protein data which is based on the database that you built for your previous lab. Please see assignment sheet for details and ask questions as necessary.
 
 ## Learning
 
